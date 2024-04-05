@@ -1,0 +1,9 @@
+2024-03-24 00:41:27: Launched 'Google' at 'www.google.nl'
+2024-03-24 00:41:37: Launched 'Google' at 'www.google.nl'
+2024-03-24 00:52:41 - Log file opened.
+2024-03-24 00:52:48 - Log file opened.
+2024-03-24 00:53:05 - Log file opened.
+2024-03-24 01:30:24: Launched 'Google' at 'www.google.nl'
+2024-03-24 01:45:58: Launched 'Google' at 'www.google.nl'
+2024-03-24 01:48:37: Launched 'Youtube' at 'www.youtube.nl'
+2024-03-24 02:04:42: Launched 'Google' at 'www.google.nl'
